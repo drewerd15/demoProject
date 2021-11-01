@@ -1,2 +1,4 @@
 Well hi there!
+well well well
 This will be a conflicting line! Oh no!
+All resolved!
