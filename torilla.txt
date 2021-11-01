@@ -1,1 +1,2 @@
 Well hi there!
+This will be a conflicting line! Oh no!
